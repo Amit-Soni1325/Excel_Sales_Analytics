@@ -43,16 +43,16 @@ Tools Used: Excel (Pivot Tables)
 
 ### Sales Reports:
 #### 1) Customer Performance Report 
-_[customer performance report](https://github.com/Amit-Soni1325/Excel_Sales_Analytics/blob/main/Customer%20Performance%20Report.pdf)_
+_[Customer performance report](https://github.com/Amit-Soni1325/Excel_Sales_Analytics/blob/main/Customer%20Performance%20Report.pdf)_
 #### 2) Market Performance Vs Target Report
- _[market performance and sales targets]((https://github.com/Amit-Soni1325/Excel_Sales_Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf))_
+ _[Market performance and sales targets](https://github.com/Amit-Soni1325/Excel_Sales_Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
 ### Finance Reports:
 #### 1) P & L for Markets
 _[Markets](https://github.com/Amit-Soni1325/Excel_Sales_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 #### 2) P & L By Fiscal Year
-_[Fiscal Year]_(https://github.com/Amit-Soni1325/Excel_Sales_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_
+_[Fiscal Year](https://github.com/Amit-Soni1325/Excel_Sales_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_
 #### 3) P & L By Fiscal Months
-_[Months]_(https://github.com/Amit-Soni1325/Excel_Sales_Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_
+_[Months](https://github.com/Amit-Soni1325/Excel_Sales_Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_
 ### The Power of Data Analytics:
 This project has shown me the transformative power of data analytics in sales and finance. By leveraging the right tools and techniques, we can unlock new heights of business growth and informed decision-making.
 
